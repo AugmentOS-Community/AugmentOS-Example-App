@@ -2,6 +2,11 @@
 
 ### Update 2025 - this repo is outdated. To build an [AugmentOS](https://augmentos.org/) app for smart glasses such as *Even Reality G1* and *Vuzix Z100*, check out the new [AugmentOS Example Cloud App Repository](https://github.com/AugmentOS-Community/AugmentOS-Cloud-Example-App).
 
+
+
+
+
+
 # Example AugmentOS App (OUTDATED)
 
 This repository provides a **bare-bones example** of how to build a Third-Party App (TPA) for **[AugmentOS](https://www.augmentos.org/)**, the operating system for smart glasses. If you want to get started with building apps for AugmentOS, start here.
